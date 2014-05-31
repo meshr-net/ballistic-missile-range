@@ -22,7 +22,7 @@ Where
 * A is the cross sectional area of the booster
 * h is the altitude
 * g is the gravitational accleration at h
-* psi is the range angle
+* psi is the range angle: range = psi * Rearth
 * gamma is the range between the velocity and the local horizontal
 * eta is the angle between the thrust direction and the missile axis
 
